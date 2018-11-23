@@ -19,9 +19,9 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundLayerName" value="ic_launcher_background" />
-                                      <entry key="foregroundImage" value="D:\Android_Project\save.png" />
-                                      <entry key="foregroundLayerName" value="ic_launcher_saving" />
-                                      <entry key="outputName" value="saving" />
+                                      <entry key="foregroundImage" value="D:\Android_Project\trash.jpg" />
+                                      <entry key="foregroundLayerName" value="ic_launcher_trash" />
+                                      <entry key="outputName" value="trash" />
                                     </map>
                                   </option>
                                 </PersistentState>

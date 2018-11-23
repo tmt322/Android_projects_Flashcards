@@ -41,6 +41,25 @@
         android:layout_marginStart="275dp"
         android:src="@mipmap/spaceship" />
 
+    <ImageView
+        android:id="@+id/next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/trash"
+        android:layout_marginEnd="101dp"
+        android:src="@mipmap/next" />
+
+    <ImageView
+        android:id="@+id/trash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="212dp"
+        android:layout_marginStart="100dp"
+        android:src="@mipmap/trash" />
+
 
 
 </RelativeLayout>
