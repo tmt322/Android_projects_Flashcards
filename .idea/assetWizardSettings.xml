@@ -16,12 +16,28 @@
                             <entry key="launcher">
                               <value>
                                 <PersistentState>
+                                  <option name="children">
+                                    <map>
+                                      <entry key="foregroundImage">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="scalingPercent" value="43" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
+                                    </map>
+                                  </option>
                                   <option name="values">
                                     <map>
+                                      <entry key="backgroundAssetType" value="COLOR" />
+                                      <entry key="backgroundColor" value="fcfffa" />
                                       <entry key="backgroundLayerName" value="ic_launcher_background" />
-                                      <entry key="foregroundImage" value="D:\Android_Project\trash.jpg" />
-                                      <entry key="foregroundLayerName" value="ic_launcher_trash" />
-                                      <entry key="outputName" value="trash" />
+                                      <entry key="foregroundImage" value="D:\Android_Project\space icon.jpg" />
+                                      <entry key="outputName" value="ic_launcher_spaceship" />
                                     </map>
                                   </option>
                                 </PersistentState>
